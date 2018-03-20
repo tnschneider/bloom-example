@@ -1,0 +1,14 @@
+C:\Users\terry\Source\Repos\bloom\Bloom.Example\bin\Debug\netcoreapp2.0\Bloom.Example.deps.json
+C:\Users\terry\Source\Repos\bloom\Bloom.Example\bin\Debug\netcoreapp2.0\Bloom.Example.runtimeconfig.json
+C:\Users\terry\Source\Repos\bloom\Bloom.Example\bin\Debug\netcoreapp2.0\Bloom.Example.runtimeconfig.dev.json
+C:\Users\terry\Source\Repos\bloom\Bloom.Example\bin\Debug\netcoreapp2.0\Bloom.Example.dll
+C:\Users\terry\Source\Repos\bloom\Bloom.Example\bin\Debug\netcoreapp2.0\Bloom.Example.pdb
+C:\Users\terry\Source\Repos\bloom\Bloom.Example\bin\Debug\netcoreapp2.0\Bloom.dll
+C:\Users\terry\Source\Repos\bloom\Bloom.Example\bin\Debug\netcoreapp2.0\Bloom.pdb
+C:\Users\terry\Source\Repos\bloom\Bloom.Example\obj\Debug\netcoreapp2.0\Bloom.Example.csprojResolveAssemblyReference.cache
+C:\Users\terry\Source\Repos\bloom\Bloom.Example\obj\Debug\netcoreapp2.0\Bloom.Example.csproj.CoreCompileInputs.cache
+C:\Users\terry\Source\Repos\bloom\Bloom.Example\obj\Debug\netcoreapp2.0\Bloom.Example.AssemblyInfoInputs.cache
+C:\Users\terry\Source\Repos\bloom\Bloom.Example\obj\Debug\netcoreapp2.0\Bloom.Example.AssemblyInfo.cs
+C:\Users\terry\Source\Repos\bloom\Bloom.Example\obj\Debug\netcoreapp2.0\Bloom.Example.csproj.CopyComplete
+C:\Users\terry\Source\Repos\bloom\Bloom.Example\obj\Debug\netcoreapp2.0\Bloom.Example.dll
+C:\Users\terry\Source\Repos\bloom\Bloom.Example\obj\Debug\netcoreapp2.0\Bloom.Example.pdb
