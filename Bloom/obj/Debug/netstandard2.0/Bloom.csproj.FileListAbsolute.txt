@@ -1,9 +1,0 @@
-C:\Users\terry\Source\Repos\bloom\Bloom\bin\Debug\netstandard2.0\Bloom.deps.json
-C:\Users\terry\Source\Repos\bloom\Bloom\bin\Debug\netstandard2.0\Bloom.dll
-C:\Users\terry\Source\Repos\bloom\Bloom\bin\Debug\netstandard2.0\Bloom.pdb
-C:\Users\terry\Source\Repos\bloom\Bloom\obj\Debug\netstandard2.0\Bloom.csprojResolveAssemblyReference.cache
-C:\Users\terry\Source\Repos\bloom\Bloom\obj\Debug\netstandard2.0\Bloom.csproj.CoreCompileInputs.cache
-C:\Users\terry\Source\Repos\bloom\Bloom\obj\Debug\netstandard2.0\Bloom.AssemblyInfoInputs.cache
-C:\Users\terry\Source\Repos\bloom\Bloom\obj\Debug\netstandard2.0\Bloom.AssemblyInfo.cs
-C:\Users\terry\Source\Repos\bloom\Bloom\obj\Debug\netstandard2.0\Bloom.dll
-C:\Users\terry\Source\Repos\bloom\Bloom\obj\Debug\netstandard2.0\Bloom.pdb
